@@ -6,6 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 Desenvolvedor de Sistemas em formação pela FATEC Paulínia, com foco em engenharia de software, modelagem de banco de dados e desenvolvimento web. Atualmente em busca de oportunidades de estágio em desenvolvimento de software para aplicar e expandir conhecimentos técnicos em desafios de alto nível.
 
@@ -16,8 +17,8 @@ Atuação orientada ao desenvolvimento de soluções tecnológicas, unindo a ló
 ## Competências Técnicas
 
 ### Back-end & Bancos de Dados
-- **Linguagens e Ferramentas:** Python, SQL.
-- **Aplicações:** Automação de rotinas corporativas, construção de querys otimizadas em bancos de dados relacionais e modelagem de entidades.
+- **Linguagens e Frameworks:** Python, Flask, SQL.
+- **Aplicações:** Construção de APIs RESTful, automação de rotinas corporativas, construção de querys otimizadas em bancos de dados relacionais e modelagem de entidades.
 
 ### Front-end & Interface
 - **Tecnologias:** React.js, JavaScript (ES6+), HTML5, CSS3.
@@ -25,11 +26,16 @@ Atuação orientada ao desenvolvimento de soluções tecnológicas, unindo a ló
 
 ### Engenharia e Arquitetura
 - Paradigma de Programação Orientada a Objetos (POO).
-- Arquitetura de software e design de componentes.
+- Arquitetura de software, modelo cliente-servidor e design de componentes.
 - Controle de versionamento de código (Git/GitHub).
 - Lógica de programação estruturada e algoritmos de otimização.
 
 ## Projetos em Destaque
+
+### API REST de Gerenciamento de Tarefas
+Projeto acadêmico focado na construção de uma interface de comunicação (API) no padrão REST para orquestração e controle de tarefas.
+- **Tecnologias:** Python, Flask, SQLite.
+- **Características:** Desenvolvimento de back-end com suporte a operações completas de CRUD (cadastrar, consultar, atualizar e excluir). A arquitetura foi projetada para garantir a comunicação padronizada entre aplicações cliente e servidor, assegurando a organização da lógica de negócio e a persistência segura de dados utilizando banco de dados relacional.
 
 ### Fatesk
 Plataforma educacional voltada para a colaboração acadêmica e gestão de rotinas estudantis.
@@ -39,8 +45,9 @@ Plataforma educacional voltada para a colaboração acadêmica e gestão de roti
 ## Foco Atual
 
 - Inserção no mercado de tecnologia através de um estágio em desenvolvimento de software.
-- Evolução contínua de aplicações web corporativas (CRMs e plataformas educacionais como o Fatesk).
-- Aplicação prática de princípios SOLID e POO em ambientes de produção.
+- Concepção, integração e manutenção de APIs RESTful robustas estruturadas em Python e Flask.
+- Evolução contínua de aplicações web (CRMs e plataformas educacionais como o Fatesk).
+- Aplicação prática de princípios SOLID e POO em ambientes de desenvolvimento.
 
 ---
 **Contato e Conexões**
