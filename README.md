@@ -1,84 +1,48 @@
-# 👋 Olá, eu sou Pedro!
+# Pedro André Feitosa
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Paulínia**, com interesse principalmente em **desenvolvimento Back-end, bancos de dados e tecnologia**.
+Desenvolvedor de Sistemas em formação pela FATEC Paulínia, com foco em engenharia de software, modelagem de banco de dados e desenvolvimento web. Atualmente em busca de oportunidades de estágio em desenvolvimento de software para aplicar e expandir conhecimentos técnicos em desafios de alto nível.
 
-Atualmente estou aprimorando meus conhecimentos em programação, SQL e desenvolvimento de sistemas através de projetos práticos.
+## Perfil Profissional
 
----
+Atuação orientada ao desenvolvimento de soluções tecnológicas, unindo a lógica estrutural da engenharia de software às necessidades de negócio. Possuo forte alicerce na Programação Orientada a Objetos (POO), garantindo a entrega de códigos limpos, modulares, reutilizáveis e de fácil manutenção para sistemas complexos.
 
-## 🛠️ Tech Stack
+## Competências Técnicas
 
-### Programming & Backend
+### Back-end & Bancos de Dados
+- **Linguagens e Ferramentas:** Python, SQL.
+- **Aplicações:** Automação de rotinas corporativas, construção de querys otimizadas em bancos de dados relacionais e modelagem de entidades.
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+### Front-end & Interface
+- **Tecnologias:** React.js, JavaScript (ES6+), HTML5, CSS3.
+- **Aplicações:** Criação de Single Page Applications (SPAs), componentização avançada, gerenciamento de estado, consumo de APIs RESTful e construção de interfaces interativas e responsivas.
 
-### Database
+### Engenharia e Arquitetura
+- Paradigma de Programação Orientada a Objetos (POO).
+- Arquitetura de software e design de componentes.
+- Controle de versionamento de código (Git/GitHub).
+- Lógica de programação estruturada e algoritmos de otimização.
 
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Projetos em Destaque
 
-### DevOps & Tools
+### Fatesk
+Plataforma educacional voltada para a colaboração acadêmica e gestão de rotinas estudantis.
+- **Tecnologias:** JavaScript, React, SQL.
+- **Características:** Sistema desenvolvido com arquitetura componentizada em React e integração de API dedicada para autenticação, realizando a verificação criptografada de login e senha para garantir a segurança e a integridade do acesso dos usuários.
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## Foco Atual
 
----
-
-## 🚀 Projeto em destaque
-
-### 🔐 Fatesk
-
-Plataforma educacional desenvolvida com foco em **segurança, privacidade e arquitetura Zero-Knowledge**.
-
-Atuação principalmente no **Back-end**, trabalhando na lógica e estrutura da aplicação.
-
----
-
-## 📚 Atualmente estudando
-
-- 🐍 Python
-- 🗄️ SQL e Banco de Dados
-- ⚙️ Desenvolvimento Back-end
-- 🔌 APIs
-- 🧠 Estrutura e lógica de programação
-- ☁️ Conceitos de Cloud Computing
+- Inserção no mercado de tecnologia através de um estágio em desenvolvimento de software.
+- Evolução contínua de aplicações web corporativas (CRMs e plataformas educacionais como o Fatesk).
+- Aplicação prática de princípios SOLID e POO em ambientes de produção.
 
 ---
-
-## 🎯 Objetivos
-
-- Aprofundar meus conhecimentos em Back-end
-- Desenvolver APIs e aplicações completas
-- Evoluir em bancos de dados
-- Criar projetos cada vez mais robustos
-- Adquirir experiência profissional na área de tecnologia
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-
-[![Gmail](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-
----
-
-<p align="center">
-  <i>“Transformando conhecimento em projetos.”</i>
-</p>
+**Contato e Conexões**
+- E-mail profissional: feitozaaped@gmail.com
+- LinkedIn: [linkedin.com/in/pedro-feitosa-997a02305](https://www.linkedin.com/in/pedro-feitosa-997a02305)
